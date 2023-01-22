@@ -43,4 +43,5 @@
     },{
       "@odata.etag":"W/\"Jzk5OTc0MzA3NCw1NjM4MjE1OTcxJw==\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":20,"QualityTestId":"Organoleptic","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T16:59:36Z","FSDCreatedDateTime":"2022-01-02T16:59:17Z"
     }
+  ]
 }
