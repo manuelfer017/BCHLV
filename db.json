@@ -29,7 +29,7 @@
     "name": "typicode"
   },
   "QualityOrderHeaders":{
-  "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders","QualityOrderHeadersvalue":[
+  "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders","value":[
     {
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","QualityTestGroupId":"5010487","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010487EA","ItemBatchNumber":"E356-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T16:59:16Z"
     },
