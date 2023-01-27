@@ -61,11 +61,28 @@
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071008","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MOI130","ItemBatchNumber":"21b12177","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:29:56Z"
     }
   ]},
-  "QualityOrderLineResults_value":[
+  "QualityOrderLineResults":{
+  "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderLineResults","value":[
     {
-      "@odata.etag":"W/\"JzEyOTM1NjExNDIsNTYzODIxNTk3MCc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":10,"QualityTestId":"DISSOLN","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"","TestResult":"Pass","ResultValue":98.47,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T16:59:32Z","FSDCreatedDateTime":"2022-01-02T16:59:17Z"
+      "QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":10, "ResultLineNumber":1
     },{
-      "@odata.etag":"W/\"Jzk5OTc0MzA3NCw1NjM4MjE1OTcxJw==\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":20,"QualityTestId":"Organoleptic","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T16:59:36Z","FSDCreatedDateTime":"2022-01-02T16:59:17Z"
+      "QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":20,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":30,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510070979","QualityOrderSequenceNumber":10,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510070979","QualityOrderSequenceNumber":20,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510070979","QualityOrderSequenceNumber":30,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510070980","QualityOrderSequenceNumber":10,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510071001","QualityOrderSequenceNumber":10,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510071001","QualityOrderSequenceNumber":20,"ResultLineNumber":1
+    },{
+      "QualityOrderNumber":"Q510071001","QualityOrderSequenceNumber":30,"ResultLineNumber":1
     }
-  ]
+  ]}    
 }
