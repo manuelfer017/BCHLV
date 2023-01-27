@@ -28,15 +28,40 @@
   "profile": {
     "name": "typicode"
   },
-  "QualityOrderHeaders_value":[
+{
+  "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders","QualityOrderHeadersvalue":[
     {
-      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","OperationsResourceId":"","PassedBatchDispositionCode":"Available","RouteOperationId":"","ProductConfigurationId":"","ValidatedDateTime":"2022-01-02T17:01:10Z","InventoryStatusId":"Pending","IsInventoryStatusDefaultedWithTestMeasurement":"Yes","SalesOrderNumber":"","QualityTestGroupId":"5010487","ReferenceInventoryLotId":"","RouteId":"","InventorySiteId":"1165FAR","ProductSizeId":"","ItemNumber":"5010487EA","AcceptableQualityLevelPercentage":100,"ProductVersionId":"","IsBatchDispositionStatusDefaultedWithTestMeasurement":"No","ProductName":"5000349569 Bulk Bell Mocha Macchiato","ItemSerialNumber":"","InventoryOwnerId":"","InventoryQuantity":1,"FailedOrderInventoryStatusId":"Blocked","WarehouseLocationId":"","ProductionOrderNumber":"","ItemSamplingId":"FQ1-FB","IsBatchAttributeValueDefaultedWithTestMeasurement":"No","CustomerAccountNumber":"","InventoryLotId":"","FailedBatchDispositionCode":"Blocked","PurchaseOrderNumber":"","PassedInventoryStatusId":"Available","ValidatingPersonnelNumber":"6K6427413","QualityOrderPolicyType":"Inventory","ItemBatchNumber":"E356-1","WarehouseId":"1165WHS","QualityOrderStatus":"Pass","ProductionOrderRouteOperationNumber":0,"DefaultLedgerDimensionDisplayValue":"-20-2005-1165-700105-","VendorAccountNumber":"","ProductColorId":"","CatchWeightQuantity":0,"IsDestructiveTest":"No","IsQualityOrderFailureCreatingQuantineOrder":"No","LicensePlateNumber":"","ProductStyleId":"","FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T17:01:10Z","FSDCreatedDateTime":"2022-01-02T16:59:16Z"
-    },{
-      "@odata.etag":"W/\"JzEwMDY2ODYzNTMsNTYzNzYyNDU5OCc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070979","OperationsResourceId":"","PassedBatchDispositionCode":"Available","RouteOperationId":"","ProductConfigurationId":"","ValidatedDateTime":"2022-01-02T17:08:51Z","InventoryStatusId":"Pending","IsInventoryStatusDefaultedWithTestMeasurement":"Yes","SalesOrderNumber":"","QualityTestGroupId":"5010487","ReferenceInventoryLotId":"","RouteId":"","InventorySiteId":"1165FAR","ProductSizeId":"","ItemNumber":"5010487EA","AcceptableQualityLevelPercentage":100,"ProductVersionId":"","IsBatchDispositionStatusDefaultedWithTestMeasurement":"No","ProductName":"5000349569 Bulk Bell Mocha Macchiato","ItemSerialNumber":"","InventoryOwnerId":"","InventoryQuantity":1,"FailedOrderInventoryStatusId":"Blocked","WarehouseLocationId":"","ProductionOrderNumber":"","ItemSamplingId":"FQ1-FB","IsBatchAttributeValueDefaultedWithTestMeasurement":"No","CustomerAccountNumber":"","InventoryLotId":"","FailedBatchDispositionCode":"Blocked","PurchaseOrderNumber":"","PassedInventoryStatusId":"Available","ValidatingPersonnelNumber":"6K6427413","QualityOrderPolicyType":"Inventory","ItemBatchNumber":"E357-1","WarehouseId":"1165WHS","QualityOrderStatus":"Pass","ProductionOrderRouteOperationNumber":0,"DefaultLedgerDimensionDisplayValue":"-20-2005-1165-700105-","VendorAccountNumber":"","ProductColorId":"","CatchWeightQuantity":0,"IsDestructiveTest":"No","IsQualityOrderFailureCreatingQuantineOrder":"No","LicensePlateNumber":"","ProductStyleId":"","FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T17:08:51Z","FSDCreatedDateTime":"2022-01-02T17:06:56Z"
-    },{
-      "@odata.etag":"W/\"JzIwMTE2MTkyNTksNTYzNzYyNDU5OSc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070980","OperationsResourceId":"","PassedBatchDispositionCode":"Available","RouteOperationId":"","ProductConfigurationId":"","ValidatedDateTime":"2022-01-02T17:44:59Z","InventoryStatusId":"Pending","IsInventoryStatusDefaultedWithTestMeasurement":"Yes","SalesOrderNumber":"","QualityTestGroupId":"StatusCHG","ReferenceInventoryLotId":"","RouteId":"","InventorySiteId":"1165FAR","ProductSizeId":"","ItemNumber":"5010488EA","AcceptableQualityLevelPercentage":100,"ProductVersionId":"","IsBatchDispositionStatusDefaultedWithTestMeasurement":"No","ProductName":"5000071472 Bulk Bell Caramel Capp UTZ","ItemSerialNumber":"","InventoryOwnerId":"","InventoryQuantity":1,"FailedOrderInventoryStatusId":"Blocked","WarehouseLocationId":"","ProductionOrderNumber":"","ItemSamplingId":"FQ1-FB","IsBatchAttributeValueDefaultedWithTestMeasurement":"No","CustomerAccountNumber":"","InventoryLotId":"","FailedBatchDispositionCode":"Blocked","PurchaseOrderNumber":"","PassedInventoryStatusId":"Available","ValidatingPersonnelNumber":"6K6427413","QualityOrderPolicyType":"Inventory","ItemBatchNumber":"N353-1","WarehouseId":"1165WHS","QualityOrderStatus":"Pass","ProductionOrderRouteOperationNumber":0,"DefaultLedgerDimensionDisplayValue":"-20-2005-1165-700105-","VendorAccountNumber":"","ProductColorId":"","CatchWeightQuantity":0,"IsDestructiveTest":"No","IsQualityOrderFailureCreatingQuantineOrder":"No","LicensePlateNumber":"","ProductStyleId":"","FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T17:44:59Z","FSDCreatedDateTime":"2022-01-02T17:44:10Z"
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","QualityTestGroupId":"5010487","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010487EA","ItemBatchNumber":"E356-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T16:59:16Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070979","QualityTestGroupId":"5010487","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010487EA","ItemBatchNumber":"E357-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T17:06:56Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070980","QualityTestGroupId":"StatusCHG","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA","ItemBatchNumber":"N353-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T17:44:10Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071001","QualityTestGroupId":"5010488","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA","ItemBatchNumber":"N354-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T18:04:56ZZ"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071002","QualityTestGroupId":"5010488","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA","ItemBatchNumber":"N356-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T18:36:32Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071003","QualityTestGroupId":"5010488","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA","ItemBatchNumber":"N357-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T18:52:51Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071004","QualityTestGroupId":"5010421","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010421EA","ItemBatchNumber":"E348-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T19:12:31Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071006","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MSW111","ItemBatchNumber":"kancw","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:18:42Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071007","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MOI321MB","ItemBatchNumber":"337222-1123445","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:25:08Z"
+    },
+    {
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071008","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MOI130","ItemBatchNumber":"21b12177","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:29:56Z"
     }
-  ],
+  ]
+} ,
   "QualityOrderLineResults_value":[
     {
       "@odata.etag":"W/\"JzEyOTM1NjExNDIsNTYzODIxNTk3MCc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070978","QualityOrderSequenceNumber":10,"QualityTestId":"DISSOLN","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"","TestResult":"Pass","ResultValue":98.47,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"REStmartin","FSDCreatedBy":"REStmartin","FSDModifiedDateTime":"2022-01-02T16:59:32Z","FSDCreatedDateTime":"2022-01-02T16:59:17Z"
