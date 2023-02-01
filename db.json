@@ -54,7 +54,7 @@
       "WarehouseId": "Salt Lake City",
       "FSDCreatedDateTime": "2023-01-28T17:06:56Z"
     },
-	  {
+  {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
       "QualityOrderNumber": "Q510070985",
@@ -65,7 +65,7 @@
       "ItemBatchNumber": "BALCHEM_001",
       "WarehouseId": "1165WHS",
       "FSDCreatedDateTime": "2023-01-28T17:44:10Z"
-    },
+    },{
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071001","QualityTestGroupId":"5010488-BALCHEM","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA-BALCHEM","ItemBatchNumber":"N354-1","WarehouseId":"Chemistry","FSDCreatedDateTime":"2022-01-28T18:04:56ZZ"
     },
     {
