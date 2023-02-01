@@ -52,10 +52,10 @@
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071004","QualityTestGroupId":"5010421","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010421EA","ItemBatchNumber":"E348-1","WarehouseId":"1165WHS","FSDCreatedDateTime":"2022-01-02T19:12:31Z"
     },
     {
-      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071006","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MSW111","ItemBatchNumber":"kancw","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:18:42Z"
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"","QualityOrderNumber":"","QualityTestGroupId":"","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"","ItemBatchNumber":"","WarehouseId":"","FSDCreatedDateTime":""
     },
     {
-      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071007","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MOI321MB","ItemBatchNumber":"337222-1123445","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:25:08Z"
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"","QualityOrderNumber":"","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"","ItemBatchNumber":"337222-1123445","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:25:08Z"
     },
     {
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071008","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"MOI130","ItemBatchNumber":"21b12177","WarehouseId":"1115WHS","FSDCreatedDateTime":"2022-01-03T04:29:56Z"
