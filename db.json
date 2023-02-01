@@ -40,7 +40,7 @@
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510070980","QualityTestGroupId":"RMDocRev","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"03509","ItemBatchNumber":"N353-1","WarehouseId":"1165WHS-BALCHEM","FSDCreatedDateTime":"2023-01-28T17:44:10Z"
     },
     {
-      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071001","QualityTestGroupId":"5010488-BALCHEM","ReferenceInventoryLotId":"","RouteId":"","ItemNumber-BALCHEM":"5010488EA","ItemBatchNumber":"N354-1","WarehouseId":"Chemistry","FSDCreatedDateTime":"2023-01-28T18:04:56ZZ"
+      "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071001","QualityTestGroupId":"5010488-BALCHEM","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA-BALCHEM","ItemBatchNumber":"N354-1","WarehouseId":"Chemistry","FSDCreatedDateTime":"2023-01-28T18:04:56ZZ"
     },
     {
       "@odata.etag":"W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"","dataAreaId":"sei","QualityOrderNumber":"Q510071002","QualityTestGroupId":"5010488-BALCHEM","ReferenceInventoryLotId":"","RouteId":"","ItemNumber":"5010488EA","ItemBatchNumber":"N356-1","WarehouseId":"1165WHS-BALCHEM","FSDCreatedDateTime":"2023-01-28T18:36:32Z"
