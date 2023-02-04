@@ -34,7 +34,7 @@
     "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
     "dataAreaId": "sei",
     "QualityOrderNumber": "Q510070991",
-    "QualityTestGroupId": "calc_sp",
+    "QualityTestGroupId": "calc_sp_bs",
     "ReferenceInventoryLotId": "",
     "RouteId": "",
     "ItemNumber": "item-5",
