@@ -30,18 +30,18 @@
   },
   "QualityOrderHeaders":{
   "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders","value":[
-      {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070990",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "MSW111",
-      "ItemBatchNumber": "BALCHEM_002",
-      "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": "2023-01-28T20:59:16Z"
-    },
+  {
+    "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+    "dataAreaId": "sei",
+    "QualityOrderNumber": "Q510070990",
+    "QualityTestGroupId": "calc_sp_bs",
+    "ReferenceInventoryLotId": "",
+    "RouteId": "",
+    "ItemNumber": "MSW111",
+    "ItemBatchNumber": "BALCHEM_002",
+    "WarehouseId": "1165WHS",
+    "FSDCreatedDateTime": "2023-01-28T20:59:16Z"
+  },
   {
     "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
     "dataAreaId": "sei",
