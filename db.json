@@ -33,14 +33,14 @@
   {
     "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
     "dataAreaId": "sei",
-    "QualityOrderNumber": "Q510070992",
+    "QualityOrderNumber": "Q510070994",
     "QualityTestGroupId": "RMDocRev",
     "ReferenceInventoryLotId": "",
     "RouteId": "",
     "ItemNumber": "item-001",
-    "ItemBatchNumber": "E361-1",
-    "WarehouseId": "1165WHS",
-    "FSDCreatedDateTime": "2023-01-28T22:59:16Z"
+    "ItemBatchNumber": "E363-1",
+    "WarehouseId": "Faribault",
+    "FSDCreatedDateTime": "2023-01-28T23:59:16Z"
   },
   {
     "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
