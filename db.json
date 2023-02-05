@@ -135,6 +135,18 @@
       "QualityTestGroupId": "RMDocRev",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
+      "ItemNumber": "calc_product",
+      "ItemBatchNumber": "kancw",
+      "WarehouseId": "Faribault",
+      "FSDCreatedDateTime": "2023-01-29T00:01:42Z"
+    },
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "sei",
+      "QualityOrderNumber": "Q510071006",
+      "QualityTestGroupId": "RMDocRev",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
       "ItemNumber": "item_number_2023",
       "ItemBatchNumber": "kancw",
       "WarehouseId": "Faribault",
