@@ -53,19 +53,19 @@
       "ItemNumber": "5010487EA",
       "ItemBatchNumber": "E364-1",
       "WarehouseId": "PHYSICAL LAB",
-      "FSDCreatedDateTime": "2023-01-29T00:03:17Z"
+      "FSDCreatedDateTime": "2023-01-29T00:02:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "",
-      "QualityOrderNumber": "Q510070979",
-      "QualityTestGroupId": "5010487",
+      "dataAreaId": "sei",
+      "QualityOrderNumber": "Q510070997",
+      "QualityTestGroupId": "calc_sp_bs",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "5010487EA",
-      "ItemBatchNumber": "E357-1",
-      "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": "2023-01-29T00:03:56Z"
+      "ItemNumber": "item-5",
+      "ItemBatchNumber": "E360-1",
+      "WarehouseId": "Chemistry",
+      "FSDCreatedDateTime": "2023-01-29T00:02:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
