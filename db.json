@@ -46,14 +46,14 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070995",
+      "QualityOrderNumber": "Q510070996",
       "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
       "ItemNumber": "5010487EA",
       "ItemBatchNumber": "E364-1",
       "WarehouseId": "PHYSICAL LAB",
-      "FSDCreatedDateTime": "2023-01-29T00:02:16Z"
+      "FSDCreatedDateTime": "2023-01-29T00:03:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
