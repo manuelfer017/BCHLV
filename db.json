@@ -46,13 +46,13 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "",
+      "QualityOrderNumber": "Q510070995",
       "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
       "ItemNumber": "5010487EA",
-      "ItemBatchNumber": "E356-1",
-      "WarehouseId": "1165WHS",
+      "ItemBatchNumber": "E364-1",
+      "WarehouseId": "PHYSICAL LAB",
       "FSDCreatedDateTime": "2023-01-29T00:02:16Z"
     },
     {
