@@ -34,14 +34,14 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070993",
-      "QualityTestGroupId": "RMDocRev",
+      "QualityOrderNumber": "Q510070994",
+      "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "item-001",
-      "ItemBatchNumber": "E362-1",
-      "WarehouseId": "ANALYTICAL LAB",
-      "FSDCreatedDateTime": "2023-01-29T00:01:16Z"
+      "ItemNumber": "item-5",
+      "ItemBatchNumber": "E363-1",
+      "WarehouseId": "Faribault",
+      "FSDCreatedDateTime": "2023-01-29T00:02:16Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
