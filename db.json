@@ -69,15 +69,15 @@
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070980",
-      "QualityTestGroupId": "StatusCHG",
+      "dataAreaId": "",
+      "QualityOrderNumber": "Q510070999",
+      "QualityTestGroupId": "RMDocRev",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "5010488EA",
-      "ItemBatchNumber": "N353-1",
-      "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": ""
+      "ItemNumber": "item-001",
+      "ItemBatchNumber": "E367-1",
+      "WarehouseId": "Chemistry",
+      "FSDCreatedDateTime": "2023-01-29T00:05:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
