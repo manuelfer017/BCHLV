@@ -34,50 +34,50 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070994",
-      "QualityTestGroupId": "5010487",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "item-5",
-      "ItemBatchNumber": "E363-1",
-      "WarehouseId": "Faribault",
-      "FSDCreatedDateTime": "2023-01-29T00:02:16Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070996",
+      "QualityOrderNumber": "",
       "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
       "ItemNumber": "5010487EA",
-      "ItemBatchNumber": "E364-1",
-      "WarehouseId": "PHYSICAL LAB",
-      "FSDCreatedDateTime": "2023-01-29T00:02:17Z"
-    },
-       {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070998",
-      "QualityTestGroupId": "5010487",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "item-001",
-      "ItemBatchNumber": "E361-1",
+      "ItemBatchNumber": "E356-1",
       "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": "2023-01-29T00:02:18Z"
+      "FSDCreatedDateTime": "2022-01-29T00:03:16Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070999",
-      "QualityTestGroupId": "RMDocRev",
+      "QualityOrderNumber": "",
+      "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "item-001",
-      "ItemBatchNumber": "E367-1",
-      "WarehouseId": "Chemistry",
-      "FSDCreatedDateTime": "2023-01-29T00:02:18Z"
+      "ItemNumber": "5010487EA",
+      "ItemBatchNumber": "E356-1",
+      "WarehouseId": "1165WHS",
+      "FSDCreatedDateTime": "2023-01-29T00:03:16Z"
+    },
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "",
+      "QualityOrderNumber": "Q510070979",
+      "QualityTestGroupId": "5010487",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
+      "ItemNumber": "5010487EA",
+      "ItemBatchNumber": "E357-1",
+      "WarehouseId": "1165WHS",
+      "FSDCreatedDateTime": "2023-01-29T00:03:56Z"
+    },
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "sei",
+      "QualityOrderNumber": "Q510070980",
+      "QualityTestGroupId": "StatusCHG",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
+      "ItemNumber": "5010488EA",
+      "ItemBatchNumber": "N353-1",
+      "WarehouseId": "1165WHS",
+      "FSDCreatedDateTime": ""
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -135,10 +135,10 @@
       "QualityTestGroupId": "RMDocRev",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "calc_product",
+      "ItemNumber": "item_number_2023",
       "ItemBatchNumber": "kancw",
       "WarehouseId": "Faribault",
-      "FSDCreatedDateTime": "2023-01-29T00:01:42Z"
+      "FSDCreatedDateTime": "2023-01-29T00:08:42Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -147,10 +147,10 @@
       "QualityTestGroupId": "RMDocRev",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "item_number_2023",
+      "ItemNumber": "calc_product",
       "ItemBatchNumber": "kancw",
       "WarehouseId": "Faribault",
-      "FSDCreatedDateTime": "2023-01-29T00:01:42Z"
+      "FSDCreatedDateTime": "2023-01-29T00:09:42Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -162,7 +162,7 @@
       "ItemNumber": "item-001",
       "ItemBatchNumber": "kancw",
       "WarehouseId": "Faribault",
-      "FSDCreatedDateTime": "2023-01-29T00:02:42Z"
+      "FSDCreatedDateTime": "2023-01-29T00:10:42Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -174,7 +174,7 @@
       "ItemNumber": "item-001      ",
       "ItemBatchNumber": "kancw",
       "WarehouseId": "WarehouseinUSA",
-      "FSDCreatedDateTime": "2023-01-29T00:03:42Z"
+      "FSDCreatedDateTime": "2023-01-29T00:11:42Z"
     }
   ]
 },
