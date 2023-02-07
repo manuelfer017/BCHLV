@@ -31,7 +31,19 @@
   "QualityOrderHeaders":{
   "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders",
   "value": [
-      {
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "sei",
+      "QualityOrderNumber": "Q510070994",
+      "QualityTestGroupId": "5010487",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
+      "ItemNumber": "item-5",
+      "ItemBatchNumber": "E363-1",
+      "WarehouseId": "Faribault",
+      "FSDCreatedDateTime": "2023-01-29T00:04:17Z"
+    },
+    {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
       "QualityOrderNumber": "Q510070996",
@@ -41,7 +53,7 @@
       "ItemNumber": "5010487EA",
       "ItemBatchNumber": "E364-1",
       "WarehouseId": "PHYSICAL LAB",
-      "FSDCreatedDateTime": "2023-01-29T00:03:17Z"
+      "FSDCreatedDateTime": "2023-01-29T00:02:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -53,19 +65,7 @@
       "ItemNumber": "item-001",
       "ItemBatchNumber": "E361-1",
       "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": "2023-01-29T00:02:18Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070999",
-      "QualityTestGroupId": "RMDocRev",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "item-001",
-      "ItemBatchNumber": "E367-1",
-      "WarehouseId": "Chemistry",
-      "FSDCreatedDateTime": "2023-01-29T00:02:18Z"
+      "FSDCreatedDateTime": "2023-01-29T00:04:18Z"
     }
   ]
 },
