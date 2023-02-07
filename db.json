@@ -38,10 +38,10 @@
       "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
-      "ItemNumber": "item-5",
-      "ItemBatchNumber": "E363-1",
-      "WarehouseId": "Faribault",
-      "FSDCreatedDateTime": "2023-01-29T00:00:17Z"
+      "ItemNumber": "",
+      "ItemBatchNumber": "",
+      "WarehouseId": "",
+      "FSDCreatedDateTime": "2023-01-29T00:09:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -70,26 +70,14 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510071004",
-      "QualityTestGroupId": "RMDocRev",
+      "QualityOrderNumber": "Q510071006",
+      "QualityTestGroupId": "Balchem-Test",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
       "ItemNumber": "item-001",
-      "ItemBatchNumber": "E371-1",
-      "WarehouseId": "GLOBAL",
-      "FSDCreatedDateTime": "2023-01-29T00:06:18Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510071005",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "item-5",
-      "ItemBatchNumber": "E370-1",
-      "WarehouseId": "ANALYTICAL LAB",
-      "FSDCreatedDateTime": "2023-01-29T00:06:28Z"
+      "ItemBatchNumber": "item-Balchem",
+      "WarehouseId": "WarehouseinUSA",
+      "FSDCreatedDateTime": "2023-01-29T00:11:42Z"
     }
   ]
 },
