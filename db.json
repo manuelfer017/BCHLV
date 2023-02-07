@@ -41,7 +41,7 @@
       "ItemNumber": "item-5",
       "ItemBatchNumber": "E363-1",
       "WarehouseId": "Faribault",
-      "FSDCreatedDateTime": "2023-01-29T00:04:17Z"
+      "FSDCreatedDateTime": "2023-01-29T00:00:17Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -65,6 +65,18 @@
       "ItemNumber": "item-001",
       "ItemBatchNumber": "E361-1",
       "WarehouseId": "1165WHS",
+      "FSDCreatedDateTime": "2023-01-29T00:00:18Z"
+    },
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "sei",
+      "QualityOrderNumber": "Q510071000",
+      "QualityTestGroupId": "RMDocRev",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
+      "ItemNumber": "item-001",
+      "ItemBatchNumber": "E368-1",
+      "WarehouseId": "Chemistry",
       "FSDCreatedDateTime": "2023-01-29T00:04:18Z"
     }
   ]
