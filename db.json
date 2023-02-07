@@ -70,14 +70,26 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510071000",
+      "QualityOrderNumber": "Q510071002",
+      "QualityTestGroupId": "calc_sp_bs",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
+      "ItemNumber": "item-005",
+      "ItemBatchNumber": "E370-1",
+      "WarehouseId": "ANALYTICAL LAB",
+      "FSDCreatedDateTime": "2023-01-29T00:05:18Z"
+    },
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "sei",
+      "QualityOrderNumber": "Q510071003",
       "QualityTestGroupId": "RMDocRev",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
       "ItemNumber": "item-001",
       "ItemBatchNumber": "E368-1",
       "WarehouseId": "Chemistry",
-      "FSDCreatedDateTime": "2023-01-29T00:04:18Z"
+      "FSDCreatedDateTime": "2023-01-29T00:05:18Z"
     }
   ]
 },
