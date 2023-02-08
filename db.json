@@ -34,6 +34,18 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
+      "QualityOrderNumber": "",
+      "QualityTestGroupId": "5010487",
+      "ReferenceInventoryLotId": "",
+      "RouteId": "",
+      "ItemNumber": "5010487EA",
+      "ItemBatchNumber": "E356-1",
+      "WarehouseId": "1165WHS",
+      "FSDCreatedDateTime": "2022-01-29T00:03:16Z"
+    },
+    {
+      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
+      "dataAreaId": "sei",
       "QualityOrderNumber": "Q510070994",
       "QualityTestGroupId": "5010487",
       "ReferenceInventoryLotId": "",
